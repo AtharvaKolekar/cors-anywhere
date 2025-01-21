@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cors-anywhere": "^0.4.4",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0"
+  }
+}
